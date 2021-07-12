@@ -43,7 +43,7 @@ jobs:
           yarn run build
 
       - name: Prepare deployment environment
-        uses: actions/setup-dotnet@v1.8.0
+        uses: actions/setup-dotnet@v1.8.1
         with:
           dotnet-version: '3.0.100'
 
