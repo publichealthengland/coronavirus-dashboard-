@@ -91,6 +91,6 @@
     "stylelint-config-standard": "^22.0.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.10.0",
-    "stylelint-scss": "^3.19.0"
+    "stylelint-scss": "^3.20.1"
   }
 }
